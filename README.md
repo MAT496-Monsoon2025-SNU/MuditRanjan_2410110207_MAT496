@@ -1,1 +1,1 @@
-# MuditRanjan_2410110207_MAT496
+These files contains the content which I learned from classes and applied on my own system and also the content which I then added from my own end to further clarify my concepts. Name : Mudit Ranjan R.No : 2410110207
